@@ -5,7 +5,7 @@ I'm Anne Dorko, a queer musical artist without any teams, funding, or management
 - 🔭 I'm working on a Strapi-based Source-of-Truth API to centralize my content creation and marketing resources for my music.
 - 🌱 I'm currently learning JAMstack: Strapi, Gatsby, Next.js
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: You can look me up on Spotify or wherever you listen to music.
+- ⚡ Fun fact: You can look me up on Spotify or wherever you listen to music to stream my originals and covers.
 
 <!--
 **annedorko/annedorko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
